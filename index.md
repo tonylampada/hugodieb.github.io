@@ -1,11 +1,8 @@
-[gimmick:theme](simplex)
-
 # Hugo Dieb - Desenvolvedor Web
 ## Contato:
 * email: hugodieb.hd@gmail.com
 * Telefone: (12) 98868 1639
 * Facebook: https://www.facebook.com/hugo.dieb.792/
-
 
 ## Repositórios:
 * [GitHub](https://github.com/hugodieb/)
