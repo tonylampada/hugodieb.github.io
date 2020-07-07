@@ -1,3 +1,5 @@
+[gimmick:theme](simplex)
+
 # Hugo Dieb - Desenvolvedor Web
 ## Contato:
 * email: hugodieb.hd@gmail.com
