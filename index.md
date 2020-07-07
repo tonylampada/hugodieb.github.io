@@ -1,4 +1,3 @@
-Welcome to the hugodieb.github.io wiki!
 # Hugo Dieb - Desenvolvedor Web
 ## Contato:
 * email: hugodieb.hd@gmail.com
